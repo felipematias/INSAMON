@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="bienvenue">Bienvenue sur Insamon!</string>
+    <string name="app_name">Insamon</string>
+    <string name="title_activity_init">InitActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="continuer">Continuer</string>
+    <string name="nvPartie">Nouvelle Partie</string>
+    <string name="start">Start</string>
+    <string name="title_activity_combat">CombatActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="map">Map</string>
+    <string name="toStringCombat"><b>%1$s</b> attaque <b>%2$s</b>        	 avec <i>%3$s</i>!</string>
+    <string name="text_question"><b>%1$s</b></string>
+    <string name="text_r1"><b>%1$s</b></string>
+    <string name="text_r2"><b>%1$s</b></string>
+    <string name="text_r3"><b>%1$s</b></string>
+    <string name="text_rc"><b>%1$s</b></string>
+    <string name="title_activity_lance_enigmes">LanceEnigmes</string>
+    <string name="title_activity_lance_enigme_test">LanceEnigmeTest</string>
+    <string name="title_activity_pok_init">Choisir le Pokemon Initial</string>
+    <string name="extraMessage">insamon.insa.amerinsa.MESSAGE</string>
+    <string name="setExpPoke">EXP: %1$s</string>
+    <string name="setViePoke">Vie: %1$s / %2$s</string>
+    <string name="setLvlPoke">Lvl: %1$s</string>
+    <string name="attaquePokemon">Attaque: %1$s</string>
+    <string name="defPokemon">Défense: %1$s</string>
+     <string name="enig">Enigmes: %1$s</string>
+    
+    <color name="white">#FFFFFF</color>
+
+    <string name="title_activity_loading_screen">LoadingScreenActivity</string>
+    <string name="title_activity_map_location">MapLocationActivity</string>
+    <string name="title_activity_mon_pokemon">MonPokemon</string>
+
+</resources>

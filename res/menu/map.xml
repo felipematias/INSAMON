@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/monPokemon"
+        android:enabled="true"
+        android:visible="true" 
+        android:title="Mon Pokemon"
+        android:icon="@drawable/pokeball"/>
+    <item android:id="@+id/map" 
+        android:enabled="true" 
+        android:visible="true" 
+        android:icon="@drawable/map_icon"
+        android:title="Map"></item>
+    <item android:id="@+id/save" 
+        android:visible="true" 
+        android:enabled="true" 
+        android:menuCategory="system" 
+        android:icon="@drawable/save_icon"
+        android:title="Save Game"></item>
+    <item android:id="@+id/load" 
+        android:visible="true" 
+        android:enabled="true" 
+        android:menuCategory="system" 
+        android:icon="@drawable/load_icon"
+        android:title="Load Game"></item>
+    
+    
+    <item android:id="@+id/close_app" 
+        	android:visible="true" 
+        	android:menuCategory="system" 
+        	android:enabled="true"
+        	android:icon="@drawable/exit"
+        	android:title="Sortir"></item>
+
+</menu>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="twolines">2</integer>
+    <integer name="fourlines">4</integer>
+    <integer name="tenlines">10</integer>
+    <integer name="twentylines">20</integer>
+</resources>
